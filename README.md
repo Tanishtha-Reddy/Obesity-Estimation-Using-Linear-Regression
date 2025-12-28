@@ -1,6 +1,4 @@
 # Obesity-Estimation-Using-Linear-Regression
-Linear Regression model to predict obesity levels from UCI dataset
-
 ## Overview
 This project implements a **Linear Regression model** to predict obesity levels based on eating habits and physical conditions using the UCI Obesity Dataset.
 
